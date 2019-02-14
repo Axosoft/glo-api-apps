@@ -9,6 +9,7 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
 * [Applications](#Applications)
 * [SDKs](#SDKs)
     * [JavaScript SDKs](#JavaScript-SDKs)
+    * [C# SDKs](#C-sdks)
 
 ## Applications
 
