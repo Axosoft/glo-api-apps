@@ -13,7 +13,8 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
 
 ## Applications
 
-* [Glo2Markdown](https://github.com/Axosoft/glo2markdown) | A Next.js app demonstrating how to use the GitKraken Glo API.
+* [Glo2Markdown](https://github.com/Axosoft/glo2markdown) A Next.js app demonstrating how to use the GitKraken Glo API.
+* [GloGraphQL](https://github.com/James-Quigley/GloGraphQL) GraphQL wrapper for the GitKraken Glo API.
 
 ## SDKs
 
