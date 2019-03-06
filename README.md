@@ -10,6 +10,7 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
 * [SDKs](#SDKs)
     * [JavaScript SDKs](#JavaScript-SDKs)
     * [C# SDKs](#C-sdks)
+    * [GO SDKs](#GO-sdks)
 
 ## Applications
 
@@ -25,3 +26,7 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
 ### C# SDKs
 
 * [glosharp](https://github.com/glosharp/glosharp)
+
+### GO SDKs
+
+* [go-glo](https://github.com/jackmcguire1/go-glo)
