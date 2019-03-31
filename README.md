@@ -17,6 +17,7 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
 * [Glo2Markdown](https://github.com/Axosoft/glo2markdown) A Next.js app demonstrating how to use the GitKraken Glo API.
 * [GloGraphQL](https://github.com/James-Quigley/GloGraphQL) GraphQL wrapper for the GitKraken Glo API.
 * [GitKraken Glo Boards for Google Assistant](https://github.com/nathfreder/gitkraken-glo-boards) A Google Assistant action for Glo boards.
+* [GitKraken Glo Boards for Amazon Alexa](https://github.com/iamady/glo-boards-alexa) An Amazon Alexa skill for GitKraken Glo boards.
 
 ## SDKs
 
