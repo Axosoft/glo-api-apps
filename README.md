@@ -1,4 +1,4 @@
-# GitKraken Glo API Apps
+# Awesome GitKraken Glo API integrations
 
 This is a list of apps, SDKs, etc. that consume/interact with GitKraken Glo's API. If you'd like to see your app in this list, [submit a PR](https://github.com/Axosoft/glo-api-apps/compare) to add it. We'll review your app and accept the PR.
 
