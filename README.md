@@ -11,6 +11,7 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
     * [JavaScript SDKs](#JavaScript-SDKs)
     * [C# SDKs](#C-sdks)
     * [GO SDKs](#GO-sdks)
+    * [PHP SDKs](#PHP-sdks)
 
 ## Applications
 
@@ -32,3 +33,7 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
 ### GO SDKs
 
 * [go-glo](https://github.com/jackmcguire1/go-glo)
+
+### PHP SDKs
+
+* [laravel-glo](https://github.com/thenexxuz/laravel-glo)
