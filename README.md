@@ -37,3 +37,7 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
 ### PHP SDKs
 
 * [laravel-glo](https://github.com/thenexxuz/laravel-glo)
+
+### Kotlin SDKs
+
+* [GloKtor](https://github.com/EricDw/GloKtor)
