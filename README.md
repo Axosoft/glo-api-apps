@@ -12,6 +12,7 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
     * [C# SDKs](#C-sdks)
     * [GO SDKs](#GO-sdks)
     * [PHP SDKs](#PHP-sdks)
+    * [Kotlin SDKs](#Kotlin-sdks)
 
 ## Applications
 
