@@ -1,6 +1,6 @@
-# Awesome GitKraken Glo API integrations
+# Awesome GitKraken Glo API SDKs
 
-This is a list of SDKs. that consume/interact with GitKraken Glo's API. Apps and integrations have been moved to [the glo marketplace](https://www.gitkraken.com/glo-marketplace), if you want your app listed, submit it there.
+This is a list of SDKs that consume/interact with GitKraken Glo's API. Apps and integrations have been moved to [the glo marketplace](https://www.gitkraken.com/glo-marketplace), if you want your app listed, submit it there.
 
 Want to create an app? [Start here](https://support.gitkraken.com/developers/overview/)
 
