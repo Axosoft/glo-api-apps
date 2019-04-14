@@ -1,6 +1,6 @@
 # Awesome GitKraken Glo API integrations
 
-This is a list of apps, SDKs, etc. that consume/interact with GitKraken Glo's API. If you'd like to see your app in this list, [submit a PR](https://github.com/Axosoft/glo-api-apps/compare) to add it. We'll review your app and accept the PR.
+This is a list of SDKs. that consume/interact with GitKraken Glo's API. Apps and integrations have been moved to [the glo marketplace](https://www.gitkraken.com/glo-marketplace), if you want your app listed, submit it there.
 
 Want to create an app? [Start here](https://support.gitkraken.com/developers/overview/)
 
@@ -16,10 +16,10 @@ Want to create an app? [Start here](https://support.gitkraken.com/developers/ove
 
 ## Applications
 
+The following are samples created by our own team to demonstrate API usage. Check out [the glo marketplace](https://www.gitkraken.com/glo-marketplace) for a list of awesome third party apps and integrations.
+
 * [Glo2Markdown](https://github.com/Axosoft/glo2markdown) A Next.js app demonstrating how to use the GitKraken Glo API.
 * [GloGraphQL](https://github.com/James-Quigley/GloGraphQL) GraphQL wrapper for the GitKraken Glo API.
-* [GitKraken Glo Boards for Google Assistant](https://github.com/nathfreder/gitkraken-glo-boards) A Google Assistant action for Glo boards.
-* [GitKraken Glo Boards for Amazon Alexa](https://github.com/iamady/glo-boards-alexa) An Amazon Alexa skill for GitKraken Glo boards.
 
 ## SDKs
 
