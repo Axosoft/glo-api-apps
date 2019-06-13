@@ -26,6 +26,7 @@ The following are samples created by our own team to demonstrate API usage. Chec
 ### JavaScript SDKs
 
 * [@axosoft/glo-sdk](https://github.com/Axosoft/glo-sdk)
+* [@kyjus25/glo-rxjs-sdk](https://github.com/kyjus25/glo-rxjs-sdk)
 
 ### C# SDKs
 
